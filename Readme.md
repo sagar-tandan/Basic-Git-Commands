@@ -174,7 +174,7 @@ feature-xyz   D──E
 ### d. Delete a Branch
 
 ```bash
-git branch -d feature-xyz
+git branch -D feature-xyz
 ```
 
 Removes a branch after merge.
